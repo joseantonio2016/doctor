@@ -218,6 +218,7 @@ class AppointmentController extends Controller
         $user_notification['title'] = 'create appointment';
         $user_notification['message'] = $message1;
         Notification::create($user_notification);
+
         return true;
     }
 

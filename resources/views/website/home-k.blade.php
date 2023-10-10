@@ -5,7 +5,6 @@
 <style>
 </style>
 @endsection
-
 @section('content')
 <div class="hfeed site" id="page">
     <div id="content" class="site-content">
